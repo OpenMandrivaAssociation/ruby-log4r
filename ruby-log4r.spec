@@ -11,6 +11,7 @@ URL: http://log4r.sourceforge.net/
 Source0: http://ovh.dl.sourceforge.net/sourceforge/%{rname}/%{rname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Ruby
+BuildRoot: %{_tmppath}/%{name}-buildroot
 Requires: ruby
 BuildRequires: ruby
 BuildArch: noarch
