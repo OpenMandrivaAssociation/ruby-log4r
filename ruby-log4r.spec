@@ -1,7 +1,7 @@
 %define rname log4r
 %define name ruby-%{rname}
 %define version 1.0.5
-%define release %mkrel 4
+%define release %mkrel 6
 
 Summary: Powerful Logging Library for Ruby
 Name: %{name}
