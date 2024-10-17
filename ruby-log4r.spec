@@ -7,7 +7,7 @@ Summary: Powerful Logging Library for Ruby
 Name: %{name}
 Version: %{version}
 Release: %{release}
-URL: http://log4r.sourceforge.net/
+URL: https://log4r.sourceforge.net/
 Source0: http://ovh.dl.sourceforge.net/sourceforge/%{rname}/%{rname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Ruby
